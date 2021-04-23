@@ -10,3 +10,6 @@ Latest version of this master repository is always published and available in ht
 ![alt tag](http://wiki.makerslink.se/images/0/0c/Voxelbuilder.PNG)
 
 Originaly forked from the great work of kriffe at https://github.com/kriffe/voxel-builder 
+
+
+Nice 3d image to voxelized image converter: https://drububu.com/miscellaneous/voxelizer/?out=stl
