@@ -1,12 +1,12 @@
-# voxel-builder
+# sebuilder
 
-Fork from threejs Voxel Painter example
+This repository is a tentative into a Space Engineers web blueprint editor
 
-Build 3D voxels with a click and export for 3D-print. Uses CSG library for cube merge.
+It's originaly forked from https://github.com/kriffe/voxel-builder
+
 
 ![alt tag](http://wiki.makerslink.se/images/0/0c/Voxelbuilder.PNG)
 
-Test live demo at http://voxels.skymaker.se
 
-
+Latest version of this master repository is always published and available in https://organom.github.io/sebuilder/
 
